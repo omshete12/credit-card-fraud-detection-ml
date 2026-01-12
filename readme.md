@@ -55,5 +55,12 @@ features.
 - Practical exposure to model reuse and prediction
 - Deploying machine learning logic through a simple application interface
 
+## Dataset Note
+The dataset used in this project is large (~143 MB) and therefore is not
+included in this repository due to GitHub file size limitations.
+The dataset is publicly available and can be obtained from standard
+credit card fraud detection datasets for academic use.
+
+
 ## Author
 Om Shete
